@@ -16,7 +16,7 @@ It’s ideal for students or beginners learning Java fundamentals and object-ori
 
 ⚙️ Features:
    Feature	                              Description
-📚 Add Book	                 Add fiction or non-fiction books with title, author,                                    copies, and subject.
+📚 Add Book	                 Add fiction or non-fiction books with title, author,                                   
 🔍 Search Book	             Search for a book by title (case-insensitive).
 📖 Display All Books	       View all books available in the library with details.
 🧾 Borrow Book	             Borrow a book if copies are available; updates inventory.
@@ -56,7 +56,7 @@ Subject: Fiction
 Java (JDK 8+)	                     Core language used for logic and structure
 IntelliJ IDEA / Eclipse            Recommended IDEs for development
 / VS Code	 
-OOP Concepts	                     Methods, data encapsulation, and modular code                                           organization
+OOP Concepts	                     Methods, data encapsulation, and modular code                                           
 Arrays	                           Used for storing and managing books and users
 Scanner Class	                     For taking user input
 Switch Statements	                 For menu-based control flow
